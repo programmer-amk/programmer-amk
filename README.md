@@ -1,6 +1,6 @@
 # Alvin Mbuthia
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-alvin-mbuthia-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/alvin-mbuthia/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-EliKeli-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/eli-keli/)
 
 [![Email](https://img.shields.io/badge/Email-ak.mbuthia98%40gmail.com-red?style=flat-square&logo=gmail)](mailto:ak.mbuthia98@gmail.com)
 
