@@ -1,7 +1,7 @@
 # Alvin Mbuthia
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-EliKeli-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/eli-keli/)
-[![Email](https://img.shields.io/badge/Email-muthokaelikeli%40gmail.com-red?style=flat-square&logo=gmail)](mailto:muthokaelikeli@gmail.com)
+[![LinkedIn](https://www.linkedin.com/in/alvin-mbuthia-a80625305/)
+[![Email]()](ak.mbuthia98@gmail.com)
 
 
 
@@ -146,8 +146,8 @@ Improving access to structured learning content
 
 ## CONNECT WITH ME
 
-👉🏽 **Email:** [ak.mbuthia98@gmail.com](mailto:muthokaelikeli@gmail.com)  
-👉🏽 **LinkedIn:** [Alvin Muthia](https://www.linkedin.com/in/eli-keli/)  
+👉🏽 **Email:** [ak.mbuthia98@gmail.com](mailto:ak.mbuthia98@gmail.com)  
+👉🏽 **LinkedIn:** [Alvin Muthia](https://www.linkedin.com/in/alvin-mbuthia/)  
 
 <div align="center">
  
