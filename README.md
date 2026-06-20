@@ -107,8 +107,8 @@ I enjoy turning ideas into usable systems — from product thinking and UI/UX co
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eli-Keli&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eli-Keli&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=alvin-mk&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvin-mk&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 ---
