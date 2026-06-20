@@ -103,7 +103,7 @@ I enjoy turning ideas into usable systems — from product thinking and UI/UX co
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlvinMbuthia&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alvin-mk&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
